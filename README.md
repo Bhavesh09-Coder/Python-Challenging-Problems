@@ -11,13 +11,20 @@ Welcome to the Python-Challenging-Problems repository! This repository features 
 
 ## Conditional Statements
 
-Explore problems that involve various conditional statements and logical operations to solve real-world scenarios. These challenges will help you master decision-making and control flow in Python.
+Problems involving conditional statements and logical operations to tackle various scenarios.
 
 ## Object-Oriented Programming (OOP)
 
-Delve into projects and problems that utilize object-oriented programming principles. Enhance your understanding of classes, objects, inheritance, and encapsulation through practical applications.
+Projects that apply OOP principles, including classes, objects, inheritance, and encapsulation.
 
 ## Data Structures and Algorithms (DSA)
+
+Challenges focusing on fundamental data structures and algorithms like lists, stacks, queues, and trees.
+
+## Decorators
+
+Tasks using Python decorators to modify and enhance function and method behaviors.
+
 
 Work on problems that focus on fundamental data structures and algorithms. These challenges will improve your problem-solving skills and algorithmic thinking by applying concepts like lists, stacks, queues, trees, and sorting algorithms.
 
