@@ -17,55 +17,54 @@ Welcome to the Python-Challenging-Problems repository! This repository contains 
   - [Sets](#sets)
   - [Dictionaries](#dictionaries)
 
-## Conditional Statements
+## * Conditional Statements
 
 Explore various problems that involve conditional statements and logical operations.
 
-## Object-Oriented Programming (OOP)
+## * Object-Oriented Programming (OOP)
 
 Work on problems that make use of object-oriented programming principles, including classes and inheritance.
 
-## Data Structures and Algorithms (DSA)
+## * Data Structures and Algorithms (DSA)
 
 Address problems focusing on key data structures and algorithms, including sorting and searching.
 
-## Decorators
+## * Decorators
 
 Practice using Python decorators to modify or enhance function behavior.
 
-## File Handling
+## * File Handling
 
 Solve problems involving reading from and writing to files.
 
-## Recursion
+## * Recursion
 
 Explore recursive problems and enhance understanding of recursive function design.
 
-## Flask
+## * Flask
 
 Work on projects using Flask to build and manage web applications.
 
-## NumPy
+## * NumPy
 
 Handle numerical data and perform mathematical operations using NumPy.
 
-## Additional Data Structures
+## * Additional Data Structures
 
-### Lists
+### - Lists
 
 Solve problems involving various list operations and manipulations.
 
-### Tuples
+### - Tuples
 
 Explore challenges using Python tuples and their applications.
 
-### Sets
+### - Sets
 
 Address problems with Python sets, focusing on unique item collections and operations.
 
-### Dictionaries
+### - Dictionaries
 
 Work on problems using Python dictionaries for efficient key-value pair management.
 
-Feel free to explore, contribute, and use these problems to advance your Python skills and tackle new challenges!
-
+Browse through these problems to expand your Python skills and explore different programming concepts.
